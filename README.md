@@ -3,14 +3,12 @@
 #### I am a creative mind in a coding environment
 
 <br>
-<div>
+
 - 🌱 I’m currently learning some coding staff at #42Madrid 
 - 📫 How to reach me: elenmafe8@gmail.com 
 - ⚡ Fun fact: Sagittarius staff... 
-</div>
-<div>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hellnhell)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/e-martintechncode/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/helln___/)  
-</div>
+
 
 <div>
 ![emartin-'s GitHub stats](https://github-readme-stats.vercel.app/api?username=hellnhell&show_icons=true&theme=tokyonight)
