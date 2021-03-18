@@ -9,7 +9,7 @@
 
 [![emartin-'s 42 stats](https://badge42.herokuapp.com/api/stats/emartin-?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellnhell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hellnhell&show_icons=true&theme=tokyonight)  
+[![Top Langs](https://github-readme-stats.hellnhell.vercel.app/api/top-langs/?username=hellnhell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.hellnhell.vercel.app/api?username=hellnhell&show_icons=true&theme=tokyonight)  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hellnhell&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
