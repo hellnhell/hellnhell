@@ -21,8 +21,6 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellnhell&show_icons=true&locale=en" alt="hellnhell" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hellnhell&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
