@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/e-msrtintechncode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="e-msrtintechncode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/e-martintechncode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="e-martintechncode" height="30" width="40" /></a>
 <a href="https://instagram.com/helln___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="helln___" height="30" width="40" /></a>
 </p>
 
@@ -20,6 +20,8 @@
 [![emartin-'s 42 stats](https://badge42.herokuapp.com/api/stats/emartin-?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellnhell&show_icons=true&locale=en" alt="hellnhell" /></p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hellnhell&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
