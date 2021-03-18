@@ -19,7 +19,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellnhell)](https://github.com/hellnhell/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellnhell)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
