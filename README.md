@@ -11,13 +11,9 @@
 
 
 
-![emartin-'s GitHub stats](https://github-readme-stats.vercel.app/api?username=hellnhell&show_icons=true&theme=tokyonight)
-
-
-
 [![emartin-'s 42 stats](https://badge42.herokuapp.com/api/stats/emartin-?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
-
+![emartin-'s GitHub stats](https://github-readme-stats.vercel.app/api?username=hellnhell&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hellnhell&layout=compact)](https://github.com/javrodri42)
 
