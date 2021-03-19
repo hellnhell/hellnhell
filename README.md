@@ -1,6 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Elena aka helln aka emartin-</h1>
+<h1 align="center">Hi 👋, your looking to Helln's profile-</h1>
+<h4 align="center">(aka emartin- )</h4>
 <h3 align="center">A creative mind in a coding environment</h3>
+
 
 - 🌱 I’m currently learning **at #42Madrid also The bootcamp web Developer(Udemy)**
 
