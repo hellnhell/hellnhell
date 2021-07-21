@@ -4,11 +4,11 @@
 <h3 align="center">A creative mind in a coding environment</h3>
 
 
-- 🌱 I’m currently learning **at #42Madrid also The bootcamp web Developer(Udemy)**
+🌱 I’m currently learning **at #42Madrid also The bootcamp web Developer(Udemy)**
 
-- 📫 How to reach me **elenmafe8@gmail.com**
+📫 How to reach me **elenmafe8@gmail.com**
 
-- ⚡ Fun fact **Sagittarius staff...**
+⚡ Fun fact **Sagittarius staff...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,9 +30,9 @@
 <a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="26px"/> </a>
 </a><a href="https://www.unix.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="26px"/> </a>
 </p>
-<br>
+<br/>
 [![emartin-'s 42 stats](https://badge42.herokuapp.com/api/stats/emartin-?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
-<br>
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellnhell&show_icons=true&locale=en&theme=blue-green" alt="hellnhell" /></p>
 
 
