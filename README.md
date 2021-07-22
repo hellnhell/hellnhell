@@ -32,9 +32,11 @@
 </a><a href="https://www.unix.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="26px"/> </a>
 
 </p>
- [![emartin-'s 42 stats](https://badge42.herokuapp.com/api/stats/emartin-?darkmode=true)](https://github.com/JaeSeoKim/badge42)
+ 
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellnhell&show_icons=true&locale=en&theme=blue-green" alt="hellnhell" /></p>
+
+[![emartin-'s 42 stats](https://badge42.herokuapp.com/api/stats/emartin-?darkmode=true)](https://github.com/JaeSeoKim/badge42)
 
 
 
