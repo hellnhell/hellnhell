@@ -4,7 +4,7 @@
 <h3 align="center">A creative mind in a coding environment</h3>
 
 
-🌱 I’m currently learning **at #42Madrid also The bootcamp web Developer(Udemy)**
+🌱 I’m currently learning **at #42Madrid**
 
 📫 How to reach me **elenmafe8@gmail.com**
 
