@@ -33,7 +33,7 @@
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellnhell&show_icons=true&locale=en&theme=blue-green" alt="hellnhell" /></p>
 
-[![emartin-'s 42 stats](https://badge42.herokuapp.com/api/stats/emartin-?darkmode=true)](https://github.com/JaeSeoKim/badge42)
+
 
 
 
