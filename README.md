@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/" width="100%" alt="Banner">
-</div>
+
 <h1 align="center">Hi 👋, your looking to Helln's profile-</h1>
 <p align="center">
 <a href="https://linkedin.com/in/e-martintechncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="e-martintechncode" width="25px" margin="5px" /></a>
