@@ -11,7 +11,7 @@
 😄 Pronouns: She/Her
 
 🌱 I’m currently working as **FrontEnd** at **Nazaries-Intelligenia**,
-   being part of the incredible team of **TestGorilla**
+   being part of **TestGorilla** team!
 
 📫 How to reach me **elenmafe8@gmail.com**
 
@@ -23,6 +23,7 @@
 
 
 <br>
+<div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" width="26px"/> </a>
 <a href="https://es.reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="nginx" width="28px"/>
@@ -37,14 +38,12 @@
 <a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="26px"/> </a>
 </a><a href="https://www.unix.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal" width="26px"/> </a>
 </p>
-
+</div>
 <br>
-
-
-
+<div>
 <h3 align="left">📈 My Github stats:</h3>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=hellnhell&show_icons=true&theme=gotham" alt="hellnhell" />
-<br>
+</div>
 
 
 
