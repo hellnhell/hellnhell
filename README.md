@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, your looking to Helln's profile-</h1>
 <p align="center">
-<a href="https://linkedin.com/in/e-martintechncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="e-martintechncode" width="25px" margin="5px" /></a>
 <a href="https://instagram.com/helln_rm" target="blank"><img align="center" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" alt="helln___"  width="25px" /></a>
-<a href="https://hellnhell.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="helln___" height="30" width="25px"  /></a>
 </p>
 <br>
 
@@ -14,6 +12,8 @@
    being part of **TestGorilla** team!
 
 📫 How to reach me **elenmafe8@gmail.com**
+
+💻 You may want my to check my day to day workload here <a href="https://github.com/elenamdev">here</a>
 
 ❤️ You can visit my site <a href="https://hellnhell.github.io">here</a>
 
